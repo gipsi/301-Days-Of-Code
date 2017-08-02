@@ -3,7 +3,9 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Gipsi's Code Log
 
-### Day 213: [01-08-2017]
+### Day 2: [01-08-2017]
+
+### Day 1: [01-08-2017]
 
 **Today's Progress:** HTML, CSS, JavaScript Tutorial with MDN. Figuring out how to use JSON and API's for FreeCodeCamp Wikipedia Viewer.
 
