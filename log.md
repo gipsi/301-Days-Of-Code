@@ -3,7 +3,25 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Gipsi's Code Log
 
-### Day 2: [01-08-2017]
+### Day 4: [04-08-2017]
+
+**Today's Progress:** Good progress in short time.  About two hours.  Installed Node.js and found a good Tutorial about it on Glitch.com
+Made a blog site with Ghost.
+
+**Thoughts:**
+
+**Link to work:** https://wakeful-cover.glitch.me/
+
+
+### Day 3: [03-08-2017]
+
+**Today's Progress:**Remixed yesterdays project on Thimble.  Explored NPM, Node.js, Grunt and Gulp.
+
+**Thoughts:** Better excuses.
+
+**Link to work:** thimbleprojects.org/gipsi/301372 
+
+### Day 2: [02-08-2017]
 
 **Today's Progress:** 2017-08-01 #100DaysOfCode #301DaysOfCode #100DaysOfJavascript #FreeCodeCamp #MDN Reflected a bit on using Brackets editor and JSLint. Made a Random Excuse Generator with Mozzila Thimble, an html/css/JavaScript project.
 
