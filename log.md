@@ -11,7 +11,7 @@ Tinkering with a weather widget on my today page.
 
 **Thoughts:** Don't get overwhelmed.
 
-**Link to work:** https://glitch.com/edit/#!/crystal-roadway?path=README.md:1:0
+**Link to work:** https://crystal-roadway.glitch.me
 
 
 
