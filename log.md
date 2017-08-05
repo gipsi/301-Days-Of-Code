@@ -12,10 +12,10 @@ Tinkering with a weather widget on my today page.
 **Thoughts:** Don't get overwhelmed.
 
 **Link to work:** https://crystal-roadway.glitch.me
+---
+https://codepen.io/gipsi/pen/mMPRYj
 
 
-
-https://glitch.com/edit/#!/crystal-roadway?path=README.md:1:0
 
 ### Day 4: [04-08-2017]
 
@@ -24,7 +24,7 @@ Made a blog site with Ghost.
 
 **Thoughts:**
 
-**Link to work:** https://wakeful-cover.glitch.me/
+**Link to work:** https://wakeful-cover.glitch.me
 
 
 ### Day 3: [03-08-2017]
