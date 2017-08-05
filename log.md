@@ -33,7 +33,7 @@ Made a blog site with Ghost.
 
 **Thoughts:** Better excuses.
 
-**Link to work:** thimbleprojects.org/gipsi/301372 
+**Link to work:** https://thimbleprojects.org/gipsi/301372 
 
 ### Day 2: [02-08-2017]
 
