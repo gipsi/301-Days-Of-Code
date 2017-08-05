@@ -3,6 +3,20 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Gipsi's Code Log
 
+
+### Day 5: [05-08-2017]
+
+**Today's Progress:** A new technical blog site with ghost.  
+Tinkering with a weather widget on my today page.
+
+**Thoughts:** Don't get overwhelmed.
+
+**Link to work:** https://glitch.com/edit/#!/crystal-roadway?path=README.md:1:0
+
+
+
+https://glitch.com/edit/#!/crystal-roadway?path=README.md:1:0
+
 ### Day 4: [04-08-2017]
 
 **Today's Progress:** Good progress in short time.  About two hours.  Installed Node.js and found a good Tutorial about it on Glitch.com
