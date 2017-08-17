@@ -29,6 +29,8 @@ Drew a diagram of my website - storyboard? Worked hard on getting html files to 
 
 2017-08-08 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript - GitKraken/Typora workflow branch-develop-change content-stage-commit-merge
 
+### Day 7: [07-08-2017]
+
 2017-08-07 #100DaysOfCode 219 #301DaysOfCode 7 #100DaysOfJavascript adjusting image changer and making site into smaller linked files gipsi.itbit.me
 
 ### Day 6: [06-08-2017]
