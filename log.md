@@ -29,7 +29,7 @@ Made a blog site with Ghost.
 
 ### Day 3: [03-08-2017]
 
-**Today's Progress:**Remixed yesterdays project on Thimble.  Explored NPM, Node.js, Grunt and Gulp.
+**Today's Progress:** Remixed yesterdays project on Thimble.  Explored NPM, Node.js, Grunt and Gulp.
 
 **Thoughts:** Better excuses.
 
